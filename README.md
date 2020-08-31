@@ -1,16 +1,2 @@
-# vue-cnode
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
+### 基于vue.js的开源社区，具有浏览、回复等功能
